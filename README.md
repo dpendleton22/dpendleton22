@@ -5,4 +5,4 @@
 - 🤔 I’m looking for help with web development and building api's
 - 💬 Ask me about sports
 - 📫 How to reach me: dpendleton22@gmail.com
-- ⚡ Fun fact: Just staretd learning kendama tricks 
+- Fun fact: Just staretd learning kendama tricks: <img align="center" width="30px" src="https://us.123rf.com/450wm/rdesign0209/rdesign02091906/rdesign0209190601881/126406311-stock-vector-kendama.jpg?ver=6"/>
